@@ -1,0 +1,44 @@
+{
+  "videos": [
+    {
+      "id": "100",
+      "caption": "Happiness",
+      "url": "https://i.ytimg.com/vi/nCkpzqqog4k/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/nCkpzqqog4k"
+    }
+  ],
+  "categorize": [
+    {
+      "categoryName": "sam smith hits",
+      "allvideo": [
+        {
+          "id": "100",
+          "caption": "Happiness",
+          "url": "https://i.ytimg.com/vi/nCkpzqqog4k/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/nCkpzqqog4k"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "caption": "turbo ",
+      "embedLink": "https://www.youtube.com/embed/3C3eCv2ePgY",
+      "timeStamp": "05/26/2024, 08:05:44 PM",
+      "id": 1
+    },
+    {
+      "caption": "turbo ",
+      "embedLink": "https://www.youtube.com/embed/3C3eCv2ePgY",
+      "timeStamp": "05/26/2024, 08:08:02 PM",
+      "id": 2
+    },
+    {
+      "caption": "Happiness",
+      "embedLink": "https://www.youtube.com/embed/nCkpzqqog4k",
+      "timeStamp": "05/26/2024, 08:08:31 PM",
+      "id": 3
+    }
+  ]
+}
